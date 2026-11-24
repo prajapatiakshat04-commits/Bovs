@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64" role="img" aria-label="Career and Workplace Guides">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#4f46e5"/>
+      <stop offset="1" stop-color="#7c3aed"/>
+    </linearGradient>
+  </defs>
+  <rect width="64" height="64" rx="15" fill="url(#g)"/>
+  <path d="M18 42V30l8 7 8-14 8 12 4-5v12z" fill="#fff" opacity=".28"/>
+  <path d="M20 43h24" stroke="#fff" stroke-width="3.4" stroke-linecap="round"/>
+  <path d="M32 41V22" stroke="#fff" stroke-width="3.4" stroke-linecap="round"/>
+  <path d="M25 28.5 32 21l7 7.5" fill="none" stroke="#fff" stroke-width="3.4" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M22 49h20" stroke="#fff" stroke-width="3.4" stroke-linecap="round" opacity=".55"/>
+</svg>

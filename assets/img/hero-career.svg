@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 420" width="520" height="420" role="img" aria-labelledby="heroArtTitle">
+<title id="heroArtTitle">A person working at a desk with a laptop, floating document cards and a rising growth chart</title>
+<rect width="520" height="420" rx="26" fill="#ede9fe"/>
+<circle cx="470" cy="64" r="52" fill="#ddd6fe"/>
+<circle cx="46" cy="374" r="50" fill="#e0e7ff"/>
+<rect x="58" y="62" width="118" height="74" rx="14" fill="#ffffff" stroke="#e6e3f7" stroke-width="2"/>
+<rect x="76" y="86" width="62" height="9" rx="4.5" fill="#a5b4fc"/>
+<rect x="76" y="106" width="86" height="9" rx="4.5" fill="#ddd6fe"/>
+<rect x="198" y="38" width="96" height="58" rx="12" fill="#ffffff" stroke="#e6e3f7" stroke-width="2"/>
+<rect x="214" y="58" width="52" height="8" rx="4" fill="#818cf8"/>
+<rect x="214" y="74" width="66" height="8" rx="4" fill="#e0e7ff"/>
+<path d="M76 214 C 118 178 132 190 178 146" fill="none" stroke="#7c3aed" stroke-width="9" stroke-linecap="round"/>
+<path d="M178 146 l-30 -5 l5 30 z" fill="#7c3aed"/>
+<rect x="226" y="286" width="252" height="16" rx="8" fill="#4f46e5"/>
+<rect x="244" y="302" width="14" height="62" rx="7" fill="#c7d2fe"/>
+<rect x="446" y="302" width="14" height="62" rx="7" fill="#c7d2fe"/>
+<rect x="244" y="252" width="86" height="36" rx="2" fill="#4f46e5"/>
+<path d="M244 252 a43 43 0 0 1 86 0 z" fill="#4f46e5"/>
+<circle cx="287" cy="192" r="31" fill="#ffffff"/>
+<path d="M256 184 a31 31 0 0 1 62 0 q-16 -15 -31 -15 t-31 15 z" fill="#7c3aed"/>
+<rect x="314" y="250" width="72" height="14" rx="7" fill="#6366f1"/>
+<rect x="328" y="196" width="104" height="76" rx="10" fill="#7c3aed"/>
+<rect x="338" y="206" width="84" height="52" rx="6" fill="#ede9fe"/>
+<rect x="348" y="218" width="56" height="7" rx="3.5" fill="#a5b4fc"/>
+<rect x="348" y="232" width="70" height="7" rx="3.5" fill="#c7d2fe"/>
+<path d="M320 272 h120 l12 10 h-144 z" fill="#4f46e5"/>
+<rect x="66" y="310" width="26" height="54" rx="9" fill="#a5b4fc"/>
+<rect x="100" y="288" width="26" height="76" rx="9" fill="#818cf8"/>
+<rect x="134" y="258" width="26" height="106" rx="9" fill="#6366f1"/>
+<rect x="40" y="364" width="440" height="8" rx="4" fill="#c7d2fe"/>
+<circle cx="470" cy="250" r="28" fill="#ffffff" stroke="#ede9fe" stroke-width="3"/>
+<path d="M457 251 l10 10 l19 -21" fill="none" stroke="#15803d" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
